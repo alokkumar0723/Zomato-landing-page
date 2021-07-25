@@ -1,2 +1,2 @@
 # Zomato-landing-page
-I have Created the Zomato landing page using basics HTML, CSS.
+I have Created the Zomato landing page using basics of HTML and  CSS.
